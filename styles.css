@@ -63,3 +63,17 @@ main {
     color: #333;
     line-height: 1.6;
   }
+  /* Footer Section Styling */
+footer {
+    background-color: #ccc;
+    color: #333;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 14px;
+    margin-top: auto;
+  }
+  
+  footer a {
+    color: #333;
+    text-decoration: underline;
+  }
